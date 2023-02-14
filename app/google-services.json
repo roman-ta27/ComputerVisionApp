@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "276676081564",
+    "project_id": "computer-vision-32683993",
+    "storage_bucket": "computer-vision-32683993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276676081564:android:c86924342407c0ba133a59",
+        "android_client_info": {
+          "package_name": "com.example.computervision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276676081564-a7lo6to2ijsnhl3tmi4d7t3393er7agj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgg3FQliHiQC-wdWRq9Lj7Me5amMPOvbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276676081564-a7lo6to2ijsnhl3tmi4d7t3393er7agj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276676081564:android:c6ed907634b161a0133a59",
+        "android_client_info": {
+          "package_name": "com.example.computervision_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276676081564-a7lo6to2ijsnhl3tmi4d7t3393er7agj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgg3FQliHiQC-wdWRq9Lj7Me5amMPOvbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276676081564-a7lo6to2ijsnhl3tmi4d7t3393er7agj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
